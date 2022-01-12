@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mike Rose (@whatismike). I'm based in New York City.
+- 👀 I’m interested in QA Engineering.
+- 🌱 I’m currently learning manual and automated QA testing techniques and best practices.
+- 💞️ I’m actively looking to gain real-world experience on a QA team.
+- 📫 I can be reached at mrosemrose@gmail.com
